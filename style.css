@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Mali:wght@300&display=swap');
+body{
+background-color:#1F2937;
+color:#6EE7B7;
+font-family: 'Mali', cursive;
+
+}
+.container
+{
+    margin:auto;
+    width:50%;
+}
+input,label
+{
+    display:block;
+    margin-bottom: 0.5rem;
+}
+button{
+    border-radius: 0.2rem;
+
+
+}
